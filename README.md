@@ -20,7 +20,7 @@ Min level: 1
 Max level: 30
 Weight: 8
 ```
-You can customize the levels at which the animation appears, and re-upload to the dolphin folder in flipper via qFlipper, After all the changes reboot your flipper, to find the animation press the "Ok button" on the flipper until it appears
+You can customize the levels at which the animation appears, and re-upload to the dolphin folder in flipper via qFlipper and disable the battery icon! , After all the changes reboot your flipper, to find the animation press the "Ok button" on the flipper until it appears
 
 <img loading="lazy" src="https://raw.githubusercontent.com/Davim09/flipper_wardriving_animation/main/Screenshot_149.png" width="788" height="398"/>
 
