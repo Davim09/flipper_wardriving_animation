@@ -1,6 +1,6 @@
 # Flipper Zero Wardriving Animation
 
-<img loading="lazy" src="https://raw.githubusercontent.com/Davim09/flipper_wardriving_animation/main/IMG_20240122_121302.jpg" width="1080" height="900"/>
+<img loading="lazy" src="https://raw.githubusercontent.com/Davim09/flipper_wardriving_animation/main/IMG_20240122_121302.jpg" width="900" height="1080"/>
 
 I made an animation of the flipper based on this antenna photo from @diegodartora_ on Instagram:
 
