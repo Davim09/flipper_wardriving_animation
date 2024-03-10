@@ -24,5 +24,9 @@ You can customize the levels at which the animation appears, and re-upload to th
 
 <img loading="lazy" src="https://raw.githubusercontent.com/Davim09/flipper_wardriving_animation/main/Screenshot_149.png" width="788" height="398"/>
 
+#Remember
+
+The "wardriving_png" folder is for you compile with the flipper firmware, it contains the .png of each frame, remeber to remove "_png" of the folder name to compile it
+
 # Contribution
 Thanks to @diegodartora_ and @cyber_neitan for their help with testing and design! You can find them on Instagram!
