@@ -29,4 +29,4 @@ You can customize the levels at which the animation appears, So re-upload the "m
 The "L1_Wardriving_128x64_png" folder is for you compile with the flipper firmware, it contains the .png of each frame, remeber to remove "_png" of the folder name to compile it
 
 # Contribution
-Thanks to @diegodartora_ and @cyber_neitan for their help with testing and design! You can find them on Instagram!
+Thanks to @diegodartora_ !
